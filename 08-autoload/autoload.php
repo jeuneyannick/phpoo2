@@ -11,7 +11,7 @@ spl_autoload_register('inclusionAutomatique');
 
 //Permet d'éxécuter une fonction lorsque l'interpreteur voit passer un "new" dans le code. Le nom à droite du "New" (nom de la class) est passé automatiquement en argument à cette fonction.
 
-$a = new A;, 
+$a = new A;,
 
 
 ?>
